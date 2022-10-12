@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060153336755",
+    "project_id": "rocketseat-rockethelp",
+    "storage_bucket": "rocketseat-rockethelp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060153336755:android:b63c76f2a4e52c46f4e1c6",
+        "android_client_info": {
+          "package_name": "com.jean_envixo.rocketHelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060153336755-scebd8q6nhictns32ju8kpsshosgf8r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrA1h4fwcU67pokUBBoIpQbP_-p3NWEfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060153336755-scebd8q6nhictns32ju8kpsshosgf8r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
